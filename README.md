@@ -23,7 +23,7 @@ Teaching Assistant at the Faculty of Marine Sciences, National University of Com
 **[Population dynamics of the Pacific cupped oyster Magallana gigas in northern Patagonia:](https://doi.org/10.47193/mafis.3822025010105)** This research focusses on the present M. gigas population encompassing distribution, abundance, and size structure along a 180-km coastal line from EC to San Antonio Este.
 
 
-**[A Latin American network of microbial observatories for monitoring aquatic ecosystems:](https://doi.org/10.25260/EA.24.34.3.0.2436))** We aim to provide a historical overview of the network’s formation, highlighting key debates and definitions that took place during 2017-2023.
+**[A Latin American network of microbial observatories for monitoring aquatic ecosystems:](https://doi.org/10.25260/EA.24.34.3.0.2436)** We aim to provide a historical overview of the network’s formation, highlighting key debates and definitions that took place during 2017-2023.
 
 
  ### 🤔 What i've been learning: 
