@@ -20,14 +20,14 @@ Teaching Assistant at the Faculty of Marine Sciences, National University of Com
 
 **[A historical appraisal of San Antonio bay fish assemblage:](https://doi.org/10.47193/mafis.3842025011010)** This study characterizes the composition and temporal dynamics of the coastal fish assemblage and evaluates its relationship with the artisanal fishery by comparing current findings with historical records. 
 
-**[Population dynamics of the Pacific cupped oyster Magallana gigas in northern Patagonia:](https://doi.org/10.47193/mafis.3822025010105)** This research focusses on the present M. gigas population encompassing distribution, abundance, and size structure along a 180-km coastal line from EC to San Antonio Este.
+**[Population dynamics of the Pacific cupped oyster **Magallana gigas** in northern Patagonia:](https://doi.org/10.47193/mafis.3822025010105)** This research focusses on the present M. gigas population encompassing distribution, abundance, and size structure along a 180-km coastal line from EC to San Antonio Este.
 
 
 **[A Latin American network of microbial observatories for monitoring aquatic ecosystems:](https://doi.org/10.25260/EA.24.34.3.0.2436)** We aim to provide a historical overview of the network’s formation, highlighting key debates and definitions that took place during 2017-2023.
 
 
  ### 🤔 What i've been learning: 
- I am I've recently been expanding my work on reproducibility, transparency, and open science practices, developing collaborative workflows in R and Python using GitHub. I have also begun working with large-scale monitoring datasets, satellite-derived environmental data, and other high-volume ecological data sources.
+ I've recently been expanding my work on reproducibility, transparency, and open science practices, developing collaborative workflows in R and Python using GitHub. I have also begun working with large-scale monitoring datasets, satellite-derived environmental data, and other high-volume ecological data sources.
 
 I am interested in deepening this line of work by integrating complex ecological theory with empirical research, using Patagonian coastal systems as a natural laboratory. At the same time, I aim to further strengthen my skills in marine ecosystem modeling and network-based approaches to understand community structure and reorganization under anthropogenic change.
  
