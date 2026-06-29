@@ -33,5 +33,5 @@ I am interested in deepening this line of work by integrating complex ecological
  
 - 📫 How to reach me: [Mail contact](maibarrena7@gmail.com) | [My research](https://www.researchgate.net/profile/Maite-Barrena-3) | [Linkedin](https://www.linkedin.com/in/mait%C3%A9-barrena-706911390/)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: *When I started my degree in marine biology I said: "I'm never going to work with fish, they smell bad"* 
+- ⚡ Fun fact: *When I started my degree in marine biology I said: "I'm never going to work with fish, they smell"* 
 ---
